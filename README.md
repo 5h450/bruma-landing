@@ -26,7 +26,7 @@ python3 -m http.server 4173
 
 - Layout responsive con CSS Grid, nessun overflow orizzontale
 - Animazioni di reveal on-scroll con rispetto di `prefers-reduced-motion`
-- Palette crema / inchiostro / terracotta
+- Palette salvia / verde bosco / ocra
 - Font: Fraunces e Inter (Google Fonts)
 - Immagini placeholder da [placehold.co](https://placehold.co)
 - Lighthouse: 100 Accessibilità, 100 Best Practices, 100 SEO
